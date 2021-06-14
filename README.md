@@ -1,8 +1,4 @@
-README
-Name: Gavriel Gutkin
-Id: 208765727
 
-Exercise 1 - Generic Hashtable
 
 ===Description ===
 
